@@ -17,7 +17,7 @@ public class Person {
 	public static void main(String[] args) {
 		Person[] people = new Person[5];	
 		people[0] = new Person();
-		
+		 
 		System.out.println(people[0].name);
 				
 	}
