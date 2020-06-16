@@ -19,6 +19,6 @@ public class Person {
 		people[0] = new Person();
 		 
 		System.out.println(people[0].name);
-				
+				 
 	}
 }
