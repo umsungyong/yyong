@@ -14,7 +14,7 @@ public class Test13 {
 		return 2;
 	}
 
-	public static void maiun(String[] args) {
+	public static void main(String[] args) {
 		a(0, -1);
 	}
 }    
