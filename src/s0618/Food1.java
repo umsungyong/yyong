@@ -8,5 +8,4 @@ public class Food1 {
 	} 
 
 	String name;
-      ㅇ
-}  
+}
