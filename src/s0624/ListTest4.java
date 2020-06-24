@@ -14,8 +14,17 @@ public class ListTest4 {
 		p = new Person();
 		System.out.println(pList.get(0));
 	}
- }
+}
 /*
+ * Person p1 = new person(); 
+ * p1.setName("우뢰매"); 
+ * p1.setAge(10);
+ * 
+ * Person p2= p1; 
+ * p1 = new Person(); 
+ * p1.setName("에반게리온");
+ * System.out.println(p2.getName()); 
+ * System.out.println(p2.getAge());
  * 
  * 
  * 
