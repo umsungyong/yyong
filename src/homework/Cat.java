@@ -10,7 +10,7 @@ public class Cat extends Animal {
 	    	  Animal an = new Animal();
 	    	  Cat c = new Cat(); 
 	    	  
-	    	  
+	    	   
 	    	 an.cry();
 	    	 c.cry();
 	}

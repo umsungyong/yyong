@@ -8,7 +8,7 @@ public class Apple extends SmartPhone {
 
 	public static void main(String[] args) {
 		SmartPhone sm = new SmartPhone();
-		Apple a = new Apple();
+		Apple a = new SmartPhone();
         sm.calling();
         a.calling();
 	}

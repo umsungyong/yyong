@@ -6,3 +6,4 @@ public class SmartPhone {
 		System.out.println("전화왔습니다");
 	}
 }
+ 

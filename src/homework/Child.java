@@ -9,9 +9,9 @@ public class Child extends Person{
     	  Child c = new Child();
     	  p.eat();
     	  c.eat();
-    	  
+    	   
     	  
       }
-	
+	 
 	
 }
