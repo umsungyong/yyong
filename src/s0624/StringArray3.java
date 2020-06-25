@@ -20,6 +20,7 @@ public class StringArray3 {
 	}
 }
 
+<<<<<<< HEAD
 /*   class father      son extends father
  * String name;
  *
@@ -27,5 +28,9 @@ public void work() {
 	System.out.println(" ");
  *
  */
+=======
+
+
+>>>>>>> branch 'master' of https://github.com/umsungyong/yyong.git
 
 

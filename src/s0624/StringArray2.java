@@ -11,9 +11,17 @@ public class StringArray2 {
 
 		}
 		for (int num : nums) {
+<<<<<<< HEAD
              
 			System.out.println(num);
 		}
 
 	}
 }
+=======
+			System.out.println(num);
+		}
+
+	}
+}
+>>>>>>> branch 'master' of https://github.com/umsungyong/yyong.git
