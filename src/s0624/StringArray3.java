@@ -20,12 +20,7 @@ public class StringArray3 {
 	}
 }
 
-/*   class father      son extends father
- * String name;
- *
-public void work() {
-	System.out.println(" ");
- *
- */
+
+
 
 
