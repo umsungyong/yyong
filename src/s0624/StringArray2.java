@@ -11,7 +11,6 @@ public class StringArray2 {
 
 		}
 		for (int num : nums) {
-             
 			System.out.println(num);
 		}
 
