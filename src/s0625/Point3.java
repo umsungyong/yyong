@@ -11,7 +11,7 @@ public class Point3 {
 		Random r = new Random();
 		for (int i = 0; i < 5; i++) {
 			Student s = new Student();
-			s.setName("ÀÌ¸§ " + i);
+			s.setName("ï¿½Ì¸ï¿½ " + i);
 			s.setPoint(r.nextInt(101));
 			stList.add(s);
 
@@ -29,7 +29,8 @@ public class Point3 {
 			
 			
 		}
-		System.out.println("1µî :" maxStudent);
-		System.out.println("²Ãµî:" minStudent);
+		System.out.println("1ï¿½ï¿½ :" maxStudent);
+		System.out.println("ï¿½Ãµï¿½:" minStudent);
 	}
 }
+	}

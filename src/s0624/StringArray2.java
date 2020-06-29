@@ -19,9 +19,8 @@ public class StringArray2 {
 	}
 
 
-			System.out.println(num);
-		}
+		
+		
 
 	}
 
-	}

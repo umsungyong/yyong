@@ -40,10 +40,10 @@ public class ListTest {
 				sql +="'" + c.getCarMaker() + "',";
 				sql +="'" + c.getColor() + "',";
 				sql +="'" + c.getCc()+ "')";
-			    
+			      
 				System.out.println(sql);
 				int result = stmt.executeUpdate(sql);
-				
+				 
 		
 			}
 
